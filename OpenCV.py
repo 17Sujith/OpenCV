@@ -1,6 +1,6 @@
 import cv2
 
-video = cv2.VideoCapture('22.mp4')
+video = cv2.VideoCapture('22_ccPWL6dq.mp4')
 if not video.isOpened():
     print("Error opening video file")
 
